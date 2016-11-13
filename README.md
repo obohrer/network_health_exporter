@@ -1,6 +1,6 @@
-# network-health-exporter
+# network_health_exporter
 Monitor your or others network health.
-network-health-exporter is similar to a tool like smokeping but export the results to prometheus.
+network_health_exporter is similar to a tool like smokeping but export the results to prometheus.
 
 Metrics available :
 * network_health_response_time
