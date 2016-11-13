@@ -1,0 +1,14 @@
+package: network_health_exporter
+import:
+- package: golang.org/x/net
+  subpackages:
+  - icmp
+  - internal/iana
+  - ipv4
+- package: github.com/stretchr/testify
+  subpackages:
+  - assert
+  - http
+  - mock
+  - require
+

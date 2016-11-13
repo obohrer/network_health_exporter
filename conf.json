@@ -1,0 +1,4 @@
+{"Targets":["8.8.8.8","s3.amazon.com"],
+ "IntervalSeconds":5,
+ "TimeoutSeconds":10,
+ "Port":9106}
